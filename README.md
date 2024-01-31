@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -29,22 +28,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - Tailwind css
-- desktop-first workflow
-
-### Continued development
-
-want to study
-
-- react js
-- MEARN
-- Java Spring Boot
-- Next js
-- tailwind css
 
 ### Useful resources
 
 - [Tailwind css](https://tailwindcss.com/docs/installation) - This helped me for tailwind css. I really liked this pattern and will use it going forward.
-- [Google](https://www.google.com) - searched the color code etc.
+- [Google](https://www.google.com)
 
 ## Author
 
